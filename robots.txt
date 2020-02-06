@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kiebieshoo.litchfielducc.org/sitemap.xml
